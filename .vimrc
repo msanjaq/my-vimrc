@@ -31,3 +31,5 @@ nnoremap <C-H> <C-W><C-H>
 " folding
 nnoremap <space> za
 nnoremap ,, zR
+
+set pastetoggle=<F2>
